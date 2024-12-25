@@ -1,3 +1,5 @@
+import os
+import sys
 import datetime
 from pyrogram import Client, filters
 
